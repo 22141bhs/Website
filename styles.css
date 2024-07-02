@@ -35,6 +35,11 @@ main {
     padding: 2em;
 }
 
+.right-image {
+    float: right;
+    margin: -20px 0 10px 10px; /* Adjust the top margin as needed */
+}
+
 section {
     background-color: #fff;
     padding: 2em;
@@ -51,4 +56,8 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+p {
+    line-height: 2;
 }
